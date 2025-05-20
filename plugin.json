@@ -1,0 +1,8 @@
+{
+  "name": "dstream-ingester-time",
+  "version": "v0.0.1",
+  "type": "ingester",
+  "entry": "plugin",
+  "description": "Test ingester plugin that emits time every 5s",
+  "platforms": ["linux_amd64", "windows_amd64"]
+}
